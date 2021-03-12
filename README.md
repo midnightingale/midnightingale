@@ -1,6 +1,6 @@
 ### bonjour 🌸
 
-hey! it's sophie liu, your friendly accessible tech developer and enthusiast. I’m pursuing my BSE in software engineering [@uWaterloo](https://github.com/uWaterloo), and I spend my spare code on projects at the intersection of art and tech. I also direct marketing at [vhHacks](https://vhhacks.ca/), and create surreal paintings to tickle the senses.
+hey! i'm sophie liu, your friendly accessible tech developer and enthusiast. I’m pursuing my BSE in software engineering [@uWaterloo](https://github.com/uWaterloo), and I spend my spare code on projects at the intersection of art and tech. I also direct marketing at [vhHacks](https://vhhacks.ca/), and create surreal paintings to tickle the senses.
 
 <!--
 **midnightingale/midnightingale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
