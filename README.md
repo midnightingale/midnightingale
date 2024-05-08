@@ -4,4 +4,4 @@ Hey! I'm Sophie, your friendly neighbourhood creative. I’m pursuing my BSE in 
 
 🌱 currently: dev at christie digital!
 
-🌲 prev: dev + design + product at schoolhouse.world!
+🌲 prev: dev/design/product at schoolhouse.world!
