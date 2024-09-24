@@ -5,5 +5,5 @@ Hey! I'm Sophie, your friendly neighbourhood creative. I’m pursuing my BSE in 
 🌱 currently: workin on an interactive art installation 👀
 
 🌲 fave prevs: 
-- design/product/eng at [schoolhouse.world](schoolhouse.world)
+- design/product/eng at [schoolhouse.world](https://schoolhouse.world)
 - R&D at [christie digital](https://www.christiedigital.com/)
