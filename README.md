@@ -6,3 +6,5 @@ some highlights:
 - design/product/eng at [schoolhouse.world](https://schoolhouse.world)
 - R&D at [christie digital](https://www.christiedigital.com/)
 - built an interactive projection art installation, open to the public in a museum :)
+
+you can find my work at [sophie.garden](https://sophie.garden).
