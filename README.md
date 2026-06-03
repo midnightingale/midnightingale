@@ -1,6 +1,6 @@
 ### hello friend 🌸
 
-Hey! I'm Sophie, your friendly neighbourhood creative. I studied software engineering @uWaterloo with a specialization in HCI, and I spend my spare code on projects at the intersection of art and tech. I also noodle around making music, building things out of dirt, and creating surreal paintings to tickle the senses.
+Hey! I'm Sophie, your friendly neighbourhood creative. I'm currently working on the future of education as the founding design engineer at [Aristotle](https://heyaristotle.com/)! I studied software engineering @uWaterloo with a specialization in HCI, and I spend my spare code on projects at the intersection of art and tech. I also noodle around making music, building things out of dirt, and creating surreal paintings to tickle the senses.
 
 some highlights: 
 - design/product/eng at [schoolhouse.world](https://schoolhouse.world)
