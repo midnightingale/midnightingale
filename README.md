@@ -9,4 +9,4 @@ some highlights:
 - R&D at [christie digital](https://www.christiedigital.com/)
 - built an interactive projection art installation, open to the public in a museum :)
 
-you can find my work at [sophie.garden](https://sophie.garden).
+you can poke around the corners of my mind at [sophie.garden](https://sophie.garden).
